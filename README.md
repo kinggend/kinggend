@@ -1,4 +1,3 @@
-
 # Sai Kumar
 
 Android developer. Building AI tools that run on phones.
@@ -15,6 +14,17 @@ I mostly work on Android and AI-related projects, with an interest in on-device 
 
 `JavaScript` · `HTML` · `CSS`
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/aitools_home.jpg" width="400" alt="AI Tools Hub Home" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/aitools_grid.jpg" width="400" alt="AI Tools Hub Directory" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/aitools_finder.jpg" width="400" alt="AI Tool Finder" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/aitools_faq.jpg" width="400" alt="AI Tools Hub FAQ" />
+</p>
+
 <br/>
 
 **VibeCoderAI** — An Android AI coding assistant that lets users write, edit, and test code directly on their phones.
@@ -28,16 +38,16 @@ It supports a **hybrid AI approach**:
 `Kotlin` · `Jetpack Compose` · `C++` · `llama.cpp` · `Retrofit`
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_chat.jpg" width="200" alt="Chat Interface" />
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_chat.jpg" width="120" alt="Chat Interface" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_projects.jpg" width="200" alt="Projects & Editor" />
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_projects.jpg" width="120" alt="Projects & Editor" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_models.jpg" width="200" alt="Local Models" />
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_models.jpg" width="120" alt="Local Models" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_terminal.jpg" width="200" alt="Sandboxed Terminal" />
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_terminal.jpg" width="120" alt="Sandboxed Terminal" />
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_settings.jpg" width="200" alt="Settings" />
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_settings.jpg" width="120" alt="Settings" />
 </p>
 
 ---

@@ -6,9 +6,8 @@ I mostly work on Android and AI-related projects, with an interest in on-device 
 
 ---
 
-## What I'm building
-
-**AI Tools Hub** — A directory of 1,039 AI tools across 26 categories. Built to help Indian small businesses and creators discover useful AI tools without wasting time searching through multiple websites.
+### 🌐 AI Tools Hub
+**A directory of 1,039 AI tools across 26 categories.** Built to help Indian small businesses and creators discover useful AI tools without wasting time searching through multiple websites.
 
 [Live website](https://aitoolshub-in.vercel.app/) · [Source code](https://github.com/kinggend/AI-TOOLS-HUB)
 
@@ -20,7 +19,12 @@ I mostly work on Android and AI-related projects, with an interest in on-device 
 
 <br/>
 
-**VibeCoderAI** — An Android AI coding assistant that lets users write, edit, and test code directly on their phones.
+---
+
+<br/>
+
+### 🤖 VibeCoderAI
+**An Android AI coding assistant** that lets users write, edit, and test code directly on their phones.
 
 [Source code](https://github.com/kinggend/VibeCoderAI)
 
@@ -43,7 +47,6 @@ It supports a **hybrid AI approach**:
   <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_settings.jpg" width="120" alt="Settings" />
 </p>
 
----
 
 ## Tech I use
 

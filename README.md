@@ -1,3 +1,4 @@
+
 # Sai Kumar
 
 Android developer. Building AI tools that run on phones.
@@ -14,6 +15,8 @@ I mostly work on Android and AI-related projects, with an interest in on-device 
 
 `JavaScript` · `HTML` · `CSS`
 
+<br/>
+
 **VibeCoderAI** — An Android AI coding assistant that lets users write, edit, and test code directly on their phones.
 
 [Source code](https://github.com/kinggend/VibeCoderAI)
@@ -23,6 +26,19 @@ It supports a **hybrid AI approach**:
 - **Online:** Users can add their own API keys (BYOK) to connect to remote models for heavier tasks.
 
 `Kotlin` · `Jetpack Compose` · `C++` · `llama.cpp` · `Retrofit`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_chat.jpg" width="200" alt="Chat Interface" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_projects.jpg" width="200" alt="Projects & Editor" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_models.jpg" width="200" alt="Local Models" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_terminal.jpg" width="200" alt="Sandboxed Terminal" />
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/vibecoder_settings.jpg" width="200" alt="Settings" />
+</p>
 
 ---
 
@@ -40,6 +56,8 @@ Android development · On-device AI · Remote APIs · Offline-first apps
 - Improving local model performance and stability for low-end devices.
 - Cleaning up AI Tools Hub and making it easier to navigate.
 - Developing **Village Tractor Simulator**, a mobile game (Work in Progress).
+
+---
 
 ## Links
 

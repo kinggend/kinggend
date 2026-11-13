@@ -14,9 +14,9 @@ I mostly work on Android and AI-related projects, with an interest in on-device 
 
 `JavaScript` · `HTML` · `CSS`
 
-**VibeCoderAI** — An Android AI coding assistant that lets users write, edit, and test code directly on their phones. 
+**VibeCoderAI** — An Android AI coding assistant that lets users write, edit, and test code directly on their phones.
 
-It supports a **hybrid AI approach**: 
+It supports a **hybrid AI approach**:
 - **Offline:** Powered by `llama.cpp` for local inference on low-resource devices (no server needed).
 - **Online:** Users can add their own API keys (BYOK) to connect to remote models for heavier tasks.
 
@@ -34,10 +34,12 @@ Android development · On-device AI · Remote APIs · Offline-first apps
 
 ## Currently working on
 
-- Implementing API key integration in VibeCoderAI for remote model support.
+- Enhancing the API key (BYOK) user experience and adding more remote model support in VibeCoderAI.
 - Improving local model performance and stability for low-end devices.
 - Cleaning up AI Tools Hub and making it easier to navigate.
-- ---
+- Developing **Village Tractor Simulator**, a mobile game (Work in Progress).
+
+---
 
 ## Links
 

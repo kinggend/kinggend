@@ -60,6 +60,12 @@ Android development · On-device AI · Remote APIs · Offline-first apps
 - Cleaning up AI Tools Hub and making it easier to navigate.
 - Developing **Village Tractor Simulator**, a mobile game (Work in Progress).
 
+## How I build 🚀
+
+I am a product builder who leverages **AI-assisted development (Vibe Coding)** to rapidly prototype and ship applications.
+
+While AI handles the syntax and boilerplate, I focus on the core architecture, UI/UX design, state management, and complex integrations (like JNI & local models). This hybrid workflow allows me to build, test, and iterate on complex projects at startup speed.
+
 ---
 
 ## Links

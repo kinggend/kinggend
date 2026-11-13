@@ -65,9 +65,13 @@ Android development · On-device AI · Remote APIs · Offline-first apps
 
 ## How I build 🚀
 
-I am a product builder who leverages **AI-assisted development (Vibe Coding)** to rapidly prototype and ship applications.
+I build my projects using a vibe-coding workflow, starting with my own ideas, requirements, and implementation direction. I use AI tools throughout development to generate code, explore solutions, and speed up iteration.
 
-While AI handles the syntax and boilerplate, I focus on the core architecture, UI/UX design, state management, and complex integrations (like JNI & local models). This hybrid workflow allows me to build, test, and iterate on complex projects at startup speed.
+I take responsibility for guiding the implementation, reviewing generated code, making technical decisions, testing features, debugging issues, and refining the final product.
+
+This workflow helps me turn ideas into working projects faster while continuously learning and improving my development skills.
+
+I believe honesty + working projects = credibility.
 
 ---
 

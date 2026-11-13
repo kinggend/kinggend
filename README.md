@@ -37,24 +37,8 @@ Android development · On-device AI · Remote APIs · Offline-first apps
 - Implementing API key integration in VibeCoderAI for remote model support.
 - Improving local model performance and stability for low-end devices.
 - Cleaning up AI Tools Hub and making it easier to navigate.
-
----
+- ---
 
 ## Links
 
-[GitHub](https://github.com/kinggend) · [AI Tools Hub](https://aitoolshub-in.vercel.app/)## Hi there 👋
-
-<!--
-**kinggend/kinggend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[GitHub](https://github.com/kinggend) · [AI Tools Hub](https://aitoolshub-in.vercel.app/)

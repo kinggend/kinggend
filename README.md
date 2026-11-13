@@ -14,16 +14,9 @@ I mostly work on Android and AI-related projects, with an interest in on-device 
 
 `JavaScript` · `HTML` · `CSS`
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/aitools_home.jpg" width="400" alt="AI Tools Hub Home" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/aitools_grid.jpg" width="400" alt="AI Tools Hub Directory" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/aitools_finder.jpg" width="400" alt="AI Tool Finder" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/aitools_faq.jpg" width="400" alt="AI Tools Hub FAQ" />
-</p>
+| <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/aitools_home.jpg" width="100%" alt="AI Tools Hub Home" /> | <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/aitools_grid.jpg" width="100%" alt="AI Tools Hub Directory" /> |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/aitools_finder.jpg" width="100%" alt="AI Tool Finder" /> | <img src="https://raw.githubusercontent.com/kinggend/kinggend/main/assets/aitools_faq.jpg" width="100%" alt="AI Tools Hub FAQ" /> |
 
 <br/>
 
